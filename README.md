@@ -1,2 +1,2 @@
-# just-enough-infinity
-Infinite scroll media viewer, minialist UI
+# JustEnoughInfinity
+Infinite scroll media viewer, minimalist UI.
